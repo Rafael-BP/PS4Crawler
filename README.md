@@ -1,2 +1,2 @@
 # PS4Crawler
-A simple crawler i did to start learning Java.
+A simple PS4 news crawler i did to start learning Java.
