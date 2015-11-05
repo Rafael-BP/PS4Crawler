@@ -1,6 +1,6 @@
 package PS4Crawler;
 
-public class RobozinTest
+public class PS4CrawlerTest
 {
     /**
      * Teste buscando novas noticias
